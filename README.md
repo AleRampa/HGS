@@ -9,7 +9,7 @@ the [Algorithms](#alg) and [Other functionalities](#other).
 The original script is developed/maintained by 
 [C. Fuster](https://www.linkedin.com/in/caleb-fuster-b6a566182/), 
 [M. Soria](https://directori.upc.edu/directori/dadesPersona.jsp?id=1003031), 
-[A. Miró](https://directori.upc.edu/directori/dadesPersona.jsp?id=1126813), et all.
+[A. Miró](https://directori.upc.edu/directori/dadesPersona.jsp?id=1126813), et al.
 
 <span style="color:Aquamarine">NASA polynomials</span> are downloaded from [Burcat mirrors link](http://garfield.chem.elte.hu/Burcat/THERM.DAT)
 check his [documentation](http://garfield.chem.elte.hu/Burcat/Archives/2005.pdf).
